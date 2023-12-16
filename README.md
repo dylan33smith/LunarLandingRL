@@ -1,5 +1,8 @@
 # **LunarLandingRL**
 
+Dylan Smith
+CSPB 3202: Fall 2023
+
 **Repository Structure**<br>
 - Report/Code:
   - The report as well as all of the code for this project is in the AIproject.ipynb file
