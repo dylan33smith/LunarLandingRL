@@ -1,6 +1,6 @@
 # **LunarLandingRL**
 
-**Project Structure**<br>
+**Repository Structure**<br>
 - Report/Code:
   - The report as well as all of the code for this project is in the AIproject.ipynb file
   - This was done in google colab and includes the packages necessary to set up the environment
@@ -11,3 +11,7 @@
  
 - Stable Baseline model files
   - Each of the trained models (light and trained) were saved as zip files to the repository
+
+**References**
+https://gymnasium.farama.org/
+https://stable-baselines3.readthedocs.io/en/master/
