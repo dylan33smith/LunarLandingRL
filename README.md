@@ -12,6 +12,6 @@
 - Stable Baseline model files
   - Each of the trained models (light and trained) were saved as zip files to the repository
 
-**References**
-https://gymnasium.farama.org/
+**References**<br>
+https://gymnasium.farama.org/<br>
 https://stable-baselines3.readthedocs.io/en/master/
