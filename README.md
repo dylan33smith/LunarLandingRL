@@ -1,6 +1,6 @@
 # **LunarLandingRL**
 
-Dylan Smith
+Dylan Smith <br>
 CSPB 3202: Fall 2023
 
 **Repository Structure**<br>
